@@ -19,5 +19,6 @@ Use this little script to keep track of the coherences between your liabilities 
 `ruby coli.rb`
 
 <h3>Example Output:</h3>
-![example_output1](http://github.com/user/repository/raw/master/example_output/example_output1.png)
-![example_output2](http://github.com/user/repository/raw/master/example_output/example_output2.png)
+![example_output1](https://github.com/pachacamac/COherent_LIabilities/blob/master/example_output/example_output1.png?raw=true)
+
+![example_output2](https://github.com/pachacamac/COherent_LIabilities/blob/master/example_output/example_output2.png?raw=true)
