@@ -16,12 +16,16 @@ liabilities.each_with_index do |liability,idx|
   graph[liability] = [] if yes?
 end
 
+puts
+
 loop do
   print "Do you want to add another liability? (y/n) "
   break unless yes?
   print "What liability do you want to add? "
   graph[gets.strip] = []
 end
+
+puts
 
 graph.keys.each do |liability1|
   graph.keys.each do |liability2|
@@ -30,6 +34,8 @@ graph.keys.each do |liability1|
     graph[liability1] << liability2 if yes?
   end
 end
+
+puts
 
 File.open('coli.dot','w') do |f|
   f.puts 'digraph coli {'

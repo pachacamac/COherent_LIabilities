@@ -1,0 +1,10 @@
+digraph coli {
+"reddit account" -> "email address";
+"landlord" -> "address";
+"landlord" -> "bank account";
+"employer" -> "address";
+"employer" -> "email address";
+"employer" -> "bank account";
+"bank account" -> "address";
+"bank account" -> "email address";
+}
