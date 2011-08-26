@@ -18,3 +18,5 @@ Use this little script to keep track of the coherences between your liabilities 
 <h3>Usage:</h3>
 `ruby coli.rb`
 
+<h3>Example Output:</h3>
+[[example_output/example_output1.png]]
