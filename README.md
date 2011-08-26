@@ -19,4 +19,4 @@ Use this little script to keep track of the coherences between your liabilities 
 `ruby coli.rb`
 
 <h3>Example Output:</h3>
-[[example_output/example_output1.png]]
+![Example output](/example_output/example_output1.png)
