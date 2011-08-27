@@ -1,4 +1,4 @@
-<h1>))) COherent_LIabilities (((</h1>
+<h1><i>CO</i>herent_<i>LI</i>abilities</h1>
 Displays your coherent liabilities .. everybody has them .. everybody gets fucked by them once in a while .. stay on top!
 
 <h3>Problem:</h3>
@@ -12,9 +12,9 @@ For example: Maybe your cellphone provider needs to know your email address and 
 
 Use this little script to keep track of the coherences between your liabilities and see at a glance what you need to do in such a scenario!
 
-<h2>Requirements</h2>
+<h3>Requirements:</h3>
 * package <b>graphviz</b> (e.g. apt-get install graphviz)
 
-<h2>Usage</h2>
+<h3>Usage:</h3>
 `ruby coli.rb`
 
