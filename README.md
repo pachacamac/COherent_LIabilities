@@ -1,5 +1,5 @@
 <h1><i>CO</i>herent_<i>LI</i>abilities</h1>
-Displays your coherent liabilities .. everybody has them .. everybody gets fucked by them once in a while .. stay on top!
+Displays your coherent liabilities .. everybody has them .. everybody gets f*cked by them once in a while .. stay on top!
 
 <h3>Problem:</h3>
 If you are .. well .. a person .. then you have things like an addresses, a telephone number or insurances.
